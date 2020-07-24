@@ -2,7 +2,7 @@
 Using K Means Clustering to form clusters based on market data of customers.
 
 
-ABOUT THE DATA:
+ABOUT THE **DATA**:
 This data set has been retrieved from 'kaggle.com' for the learning purpose of the customer segmentation concepts , also known as market basket analysis. This is demonstrated by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
 
 DESCRIPTION OF DATA:
