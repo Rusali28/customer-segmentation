@@ -72,6 +72,36 @@ There is a similar trend over here. The annual income of female buyers is, on an
 There is a similar trend over here. The spending score of female buyers is, on an average lesser than males'.
 
 
+**K MEANS CLUSTERING**
+
+In order to apply K Means on our dataset, we need to determine optimum number of clusters required. For which, we use the elbow method.
+
+![Elbow_method 1](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Elbow_method%201.PNG)
+
+We see the elbow being formed at 5 clusters.
+So we try implementing Kmeans using 5 clusters.
+
+From observations, we find out that this number works perfectly well for cluster formation considering Spending Score and Annual Income but not for rest of the cases.
+
+![Cluster 1](https://github.com/Rusali28/customer-segmentation/blob/master/Customer%20Segmentation%20(1).ipynb)
+
+So we again use the elbow method to find the perfect number of clutsers for Age and Spending Score as well as for Age and Annual Income.
+
+![Elbow_method 2](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Elbow_method%202.PNG)
+
+Here, 4 clusters seem the perfect fit. Though it works for Segmentation using Age and Spending Score but not for Age and Annual income.
+
+![Cluster 2](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Cluster2.PNG)
+
+So we repeat the elbow method for Age and Annual Income.
+
+![Elbow_method 3(https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Elbow_method%203.PNG)
+
+Here, 6 clusters fit perfectly well for Segmentation based on Age and Annual Income.
+
+![Cluster 3](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Cluster3.PNG)
+
+
 
 
 
