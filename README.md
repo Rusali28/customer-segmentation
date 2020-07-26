@@ -14,3 +14,7 @@ We own the mall and want to understand the customers like who can be easily conv
 
 **WORKING WITH THE DATA**
 Here is a glimpse of how our data looks like as a DataFrame.
+
+![Data Table](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Data%20Table.PNG)
+
+
