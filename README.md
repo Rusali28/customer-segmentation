@@ -50,5 +50,30 @@ Next, we use distribution plots to check the distribution of Age, Spending Score
 ![distplot 3](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/distplot%203.PNG)
 
 
+So we see that Age is pretty evenly distributed, with a few outliers.
+For Annual Income, we see most of our customers have an average annual income between 15 to 85 k$.
+For Spending Scr, quite a few of our customers have been provided with a spending score between 40 to 60.
+
+
+Now, we go through a few overlapping histograms using FacetGrid, to compare the gender based behavior for each of the features. Here, the blue shade is for males and orange for females.
+
+![Facetgrid_Age](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Facetgrid_Age.PNG)
+
+
+We see that considering age, except for a few outliers, most of the female buyers are younger in age than males.
+
+
+![Facetgrid_Annual Income](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Facetgrid_Annual%20Income.PNG)
+
+There is a similar trend over here. The annual income of female buyers is, on an average lesser than males'.
+
+![Facetgrid_Age](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Facetgrid_Spending%20Score.PNG)
+
+There is a similar trend over here. The spending score of female buyers is, on an average lesser than males'.
+
+
+
+
+
 
 
