@@ -95,11 +95,15 @@ Here, 4 clusters seem the perfect fit. Though it works for Segmentation using Ag
 
 So we repeat the elbow method for Age and Annual Income.
 
-![Elbow_method 3(https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Elbow_method%203.PNG)
+![Elbow_method 3](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Elbow_method%203.PNG)
 
 Here, 6 clusters fit perfectly well for Segmentation based on Age and Annual Income.
 
 ![Cluster 3](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Cluster3.PNG)
+
+With that, we successfully have created clusters for our customer segmentation data.
+
+**THANK YOU!**
 
 
 
