@@ -32,10 +32,23 @@ Firstly, we create a pairplot to figure out all possible relations between the f
 ![Pairplot](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Pairplot.PNG)
 
 
+
 Next, we move on to a countplot to compare the count of our male and female customers.
 
 ![Countplot](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/countplot.PNG)
 
 It can be seen from the plot that the count of female customers is more than male customers.
+
+
+
+Next, we use distribution plots to check the distribution of Age, Spending Score and Annual Income.
+
+![distplot 1](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/distplot%201.PNG)
+
+![distplot 2](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/distplot%202.PNG)
+
+![distplot 3](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/distplot%203.PNG)
+
+
 
 
