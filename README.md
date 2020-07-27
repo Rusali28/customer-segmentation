@@ -83,8 +83,7 @@ So we try implementing Kmeans using 5 clusters.
 
 From observations, we find out that this number works perfectly well for cluster formation considering Spending Score and Annual Income but not for rest of the cases.
 
-![Cluster 1](https://github.com/Rusali28/customer-segmentation/blob/master/Customer%20Segmentation%20(1).ipynb)
-
+![Cluster 1](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Cluster1.PNG)
 So we again use the elbow method to find the perfect number of clutsers for Age and Spending Score as well as for Age and Annual Income.
 
 ![Elbow_method 2](https://github.com/Rusali28/customer-segmentation/blob/master/visuals/Elbow_method%202.PNG)
